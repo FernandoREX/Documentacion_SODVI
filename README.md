@@ -5,3 +5,15 @@ En este repositorio se encuentra la documentación necesaria para aprender cómo
 La documentación abarca varios aspectos esenciales, desde la instalación de las herramientas necesarias hasta la forma correcta de crear y gestionar repositorios en GitHub, así como las mejores prácticas para trabajar en un entorno colaborativo. Además, se incluyen pautas para la entrega de proyectos, asegurando una presentación clara y organizada.
 
 El objetivo de este repositorio es proporcionar una guía completa y accesible para todos los miembros de SODVI, desde aquellos que están comenzando en el mundo del desarrollo de software hasta aquellos que desean mejorar sus habilidades y conocimientos en el trabajo con repositorios y la entrega de proyectos.
+
+<!-- Cuando entregues tu documentación, por favor, borra todo lo que esté debajo. -->
+<div align="center">
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+  <img src="rexLogo.png" alt="Logo de Fernando Rosas" width="100"/>
+</p>
+<h3 align="center">Documentado por Fernando Rosas</h3>
+</div>

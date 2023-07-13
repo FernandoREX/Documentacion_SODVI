@@ -18,7 +18,7 @@ Los proyectos tienen que cumplir con las siguientes caracteristicas para su entr
     * 5 imagenes del proceso de trabajo con su respectiva descripcion del proyecto
     * Conclusión
 
-    Tienes una plantilla del README que puedes descargar y llenar [aquí]()
+    Tienes una plantilla del README que puedes descargar y llenar [aquí](https://github.com/FernandoREX/Documentacion_SODVI/tree/main/Guia%20de%20entrega%20del%20proyecto/Plantilla%20del%20README)
 
 * Tienes que anexar en el repositori el ejecutable de tu juego en formato .rar o .zip, este dontro de una carpeta de nombre "Ejecutable de |Nombre del juego|"
 

@@ -216,3 +216,15 @@ Al trabajar en un proyecto colaborativo, es importante seguir algunas buenas pr�
 * Cuando hayas completado tu trabajo en la rama y estés listo para integrar tus cambios en la rama principal, puedes crear una solicitud de extracción (pull request) en GitHub. Esto permitirá revisar y discutir los cambios con otros colaboradores antes de fusionarlos con la rama principal.
 
 * Siguiendo estas recomendaciones, podrás colaborar de manera efectiva en el proyecto, evitar conflictos y mantener un historial limpio de cambios. La colaboración en equipo se facilita al utilizar ramas separadas para cada tarea o función, lo que permite un desarrollo paralelo y un mejor control sobre los cambios realizados.
+
+<!-- Cuando entregues tu documentación, por favor, borra todo lo que esté debajo. -->
+<div align="center">
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+  <img src="../rexLogo.png" alt="Logo de Fernando Rosas" width="100"/>
+</p>
+<h3 align="center">Documentado por Fernando Rosas</h3>
+</div>

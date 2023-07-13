@@ -60,3 +60,14 @@ Para la entrega del proyecto es necesario que tenga cierta informacion. Para eso
 
 ¡Eso es todo! Has modificado con éxito el archivo README en la web de GitHub. Ahora, cuando vuelvas a la vista del repositorio, podrás ver los cambios reflejados en el archivo README. Recuerda que también puedes clonar el repositorio en tu computadora local, modificar el archivo README utilizando un editor de texto de tu elección y luego realizar un "push" para aplicar los cambios en GitHub si prefieres trabajar en tu entorno local.
 
+<!-- Cuando entregues tu documentación, por favor, borra todo lo que esté debajo. -->
+<div align="center">
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+  <img src="../rexLogo.png" alt="Logo de Fernando Rosas" width="100"/>
+</p>
+<h3 align="center">Documentado por Fernando Rosas</h3>
+</div>

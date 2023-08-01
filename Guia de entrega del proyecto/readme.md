@@ -1,6 +1,4 @@
-# Titulo
-
-## Introduccion
+# Entrega final de tu proyecto
 
 ## Formato de entrega del proyecto 📚
 

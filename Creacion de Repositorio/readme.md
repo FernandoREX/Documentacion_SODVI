@@ -1,68 +1,68 @@
-# 🎮 Tu proyecto de Unity en Github 🎮
-## Introduccion 👓
+# 🎮 Tu proyecto de Unity en GitHub 🎮
+## Introducción 👓
 
-En este readme se mostrará la manera correcta de crear un repositorio y como vincular Unity a Github, ademas de algunas tecnicas de trabajo
+En este readme se mostrará la manera correcta de crear un repositorio y como vincular Unity a GitHub, además de algunas técnicas de trabajo. Un repositorio es un espacio de almacenamiento donde se pueden guardar y administrar proyectos de desarrollo de software.
 
 ## Instalaciones Previas 📓
 Para poder subir tu proyecto es necesario que tengas instalado el siguiente software:
 
-* Github Desktop [link de intalacion](https://desktop.github.com/)
-* Visual Studio Code [link de intalacion](https://code.visualstudio.com/download)
+* GitHub Desktop [link de instalación](https://desktop.GitHub.com/)
+* Visual Studio Code [link de instalación](https://code.visualstudio.com/download)
 
-Ademas en necesario tener una cuenta de Github, si aun no la tienes puedes crear una dando clik [aqui](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+Además en necesario tener una cuenta de GitHub. Si aún no la tienes, puedes crear una dando clic [aquí](https://GitHub.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 
-## Creacion del repositorio dentro de Github Desktop 🛠
+## Creación del repositorio dentro de GitHub Desktop 🛠
 
-Una ves intalado el software empezaremos creando el repositorio y publicarlo en la web de Github, para hacer esto es necesario vincular tu cuenta de Github con la aplicacion de Github Desktop.
+Una vez instalado el software, empezaremos creando el repositorio y publicándolo en la web de GitHub. Para hacer esto es necesario vincular tu cuenta de GitHub con la aplicación de GitHub Desktop.
 
-Una ves este lista la vinculacion, ya podremos empezar a crear repositorios(Un repositorio es un espacio de almacenamiento donde se pueden guardar y administrar proyectos de desarrollo de software) locales en nuestro equipo para despues subirlos a la nube de Github, para poder hacer eso es necesario seguir los siguientes pasos:
+Una vez esté lista la vinculación, ya podremos empezar a crear repositorios locales en nuestro equipo para después subirlos a la nube de GitHub. Para poder hacer esto es necesario seguir los siguientes pasos:
 
-1. El primer paso es que dentro de tu gestor de archivos tengas una carpeta especializada para los repositorios/proyectos de la sociedad, dentro de esta carpeta vamos a crear el repositorio.
+1. El primer paso es que dentro de tu gestor de archivos tengas una carpeta especializada para los repositorios o proyectos de la sociedad. Dentro de esta carpeta vamos a crear el repositorio.
 ![Imagen de gestor de archivo](Imagenes/img1.png)
 
-2. Crearemos el repositorio en nuestra aplicacion de Github, esto lo aremos siguiendo estos pasos:
+2. Crearemos el repositorio en nuestra aplicación de GitHub. Esto lo haremos siguiendo estos pasos:
     
-    2.1. Presionamos el boton de "File" en el lado superior izquierdo
+    2.1. Presionamos el boton de "File" en el lado superior izquierdo.
 
     ![Boton](Imagenes/img2.png)
 
-    2.2. Dar clik en el boton "New Repository..."
+    2.2. Dar clic en el botón "New Repository..."
 
     ![Boton](Imagenes/img3.png)
 
-    2.3. Nos saldra una nueva ventana que nos pedira rellenar algunos campos, de la siguente manera:
+    2.3. Nos saldrá una nueva ventana que nos pedirá rellenar algunos campos de la siguente manera:
     
     ![Boton](Imagenes/IMG4.png)
 
-    2.4. El "Local path" es la ruta donde estara gurdando el repositorio, por lo que tendremos que poner la ruta de la carpeta que hicimos al principio, esto para tener un mejor orden
+    2.4. El "Local path" es la ruta donde estará guardado el repositorio, por lo que tendremos que poner la ruta de la carpeta que hicimos al principio. Esto es para tener un mejor orden.
 
     ![Boton](Imagenes/img5.png)
 
-    2.5. Tendremos que marcar la casilla que se muestra a continuacion
+    2.5. Tendremos que marcar la casilla que se muestra a continuación.
 
     ![Boton](Imagenes/img6.png)
 
-    2.6. En la seccion del "Git Ignore" es una de las mas importantes de la creacion del proyecto, en esta parte es nesesario seleccionar la opcion de "Unity"
+    2.6. La sección del "Git Ignore" es una de las mas importantes de la creacion del proyecto. En esta parte es nesesario seleccionar la opcion de "Unity".
 
     ![Boton](Imagenes/img7.png)
 
-    2.7. Es tambien importante que no cambien ningun valor en la seccion de "License"
+    2.7. Es también importante que no cambien ningún valor en la sección "License".
 
-    2.8. Una vez terminemos los pasos daremos clik en el boton de "Create repository"
+    2.8. Una vez que terminemos los pasos anteriores, daremos clic en el boton "Create repository".
 
     ![Boton](Imagenes/img8.png)
 
-3. Ya tendremos listo el repositorio, si quieres ver si este se creo de manera correcta podemos ir a nuestra carpeta que hizimos y podremos ver esta nueva carpeta:
+3. Ya tendremos listo el repositorio. Si quieres ver si este se creó de manera correcta, podemos ir a la carpeta que hicimos y podremos ver esta nueva carpeta:
 ![Boton](Imagenes/img9.png)
-Dentro de esta nueva carpeta podremos ver los archivos que son necesarios para el funcionamiento del repositorio
+Dentro de esta nueva carpeta podremos ver los archivos que son necesarios para el funcionamiento del repositorio.
 ![Boton](Imagenes/img10.png)
 
-4. El repositorio necesita de algunas modificaciones para que funcione de manera correcta, para esto entraremos en el documento ".gitignore", de preferencia se recomienda usar VS Code para la edicion, pero puedes usar el de tu eleccion.
+4. El repositorio necesita de algunas modificaciones para que funcione de manera correcta. Para esto entraremos en el documento ".gitignore". Se recomienda usar VS Code para la edicion, pero puedes usar el editor de tu preferencia.
 
     Al abrir el documento nos centraremos en la primera parte de este:
     ![Boton](Imagenes/img11.png)
 
-    En esta seccion tendremos que borrar lo que esta y pegar esta seccion de codigo:
+    En esta sección tendremos que borrar lo que está y pegar esta sección de código:
 
         [Ll]ibrary/
         [Tt]emp/
@@ -73,24 +73,24 @@ Dentro de esta nueva carpeta podremos ver los archivos que son necesarios para e
         [Mm]emoryCaptures/
         [Uu]ser[Ss]ettings/
 
-    Si quieres saber mas de que es un .gitignore puedes dar clik [aqui](https://git-scm.com/docs/gitignore#:~:text=A%20gitignore%20file%20specifies%20intentionally,gitignore%20file%20specifies%20a%20pattern.)
+    Si quieres saber más de que es un .gitignore, puedes dar clic [aquí](https://git-scm.com/docs/gitignore#:~:text=A%20gitignore%20file%20specifies%20intentionally,gitignore%20file%20specifies%20a%20pattern.)
 
-5. Despues de este esto tendras que crear una nueva carpeta dentro del repositorio para tu proyecto, esta puede tener el nombre de su proyecto, es aqui donde se guardara el proyecto de Unity
+5. Después de esto tendrás que crear una nueva carpeta dentro del repositorio para tu proyecto. Esta puede tener el nombre de tu proyecto. Es aquí donde se guardará el proyecto de Unity.
 ![Boton](Imagenes/img12.png)
-Creamos el proyecto y lo guardamos en esta carpeta
+Creamos el proyecto y lo guardamos en esta carpeta.
 ![Boton](Imagenes/img13.png)
 
-6. Despues de crear el proyecto iremos nuevamente a Github Desktop, podremos ver unos cambios dentro del software:
+6. Después de crear el proyecto, iremos nuevamente a GitHub Desktop. Podremos ver unos cambios dentro del software:
 ![Boton](Imagenes/img14.png)
 Estos cambios son los siguientes:
     * Cambios hechos dentro de archivo .gitignore
     * Proyecto de Unity
 
-    **Nota: Es muy importante notar que en un proyecto nuevo y si ninguna modificacion no se tinenen que subir mas de 50 archivos o cambios, si este no es el caso revisar la configuracion del archivo .gitignore**
+    **Nota: Es muy importante notar que en un proyecto nuevo y sin ninguna modificacion no se tienen que subir mas de 50 archivos o cambios. Si este no es el caso, revisa la configuracion del archivo .gitignore**
 
     ![Boton](Imagenes/img15.png)
 
-7. Cuando ya este todo lo anterior correcto tendremos que crear un commit (acción que registra los cambios realizados en un repositorio), esto lo haremos dandole un titulo y una descripcion
+7. Cuando ya esté todo lo anterior correctamente, tendremos que crear un commit (acción que registra los cambios realizados en un repositorio). Esto lo haremos dándole un título y una descripción.
 
     ![Boton](Imagenes/img16.png)
 
@@ -99,7 +99,7 @@ Estos cambios son los siguientes:
     Título del commit:
 
     * Debe ser breve y descriptivo.
-    * Puede comenzar con un verbo en imperativo, como "Agregar", "Actualizar" o "Corregir".
+    * Puede comenzar con un verbo en infinitivo, como "Agregar", "Actualizar" o "Corregir".
     * Evita utilizar letras mayúsculas o caracteres especiales, a menos que sea necesario.
     
     Descripción del commit:
@@ -109,35 +109,35 @@ Estos cambios son los siguientes:
     * Si es necesario, incluye referencias a problemas (issues) o solicitudes de extracción relacionadas.
     * Utiliza viñetas o párrafos cortos para que la descripción sea fácil de leer.
 
-    Despues de esto daremos clik en el boton de "Commit to main", esto creara el primer commit del proyecto
+    Después de esto, daremos clic en el botón de "Commit to main". Esto creará el primer commit del proyecto.
 
     ![Boton](Imagenes/img17.png)
 
-    Despues de dar clik se actualizara y nos mastrara esta nueva informacion, porfavor notar estas dos nuevas secciones
+    Después de dar clic, se actualizará y nos mastrará esta nueva información. Nota estas dos nuevas secciónes:
 
     ![Boton](Imagenes/img18.png)
 
-8. Ahora publicaremos el repositorio en nuestra cuenta de github, esto lo vamos hacer de dando clik en el boton de "Publish repository" y nos aparecera esta nueva ventana
+8. Ahora publicaremos el repositorio en nuestra cuenta de GitHub. Esto lo vamos a hacer de dando clic en el botón "Publish repository" y nos aparecerá esta nueva ventana:
 
     ![Boton](Imagenes/img19.png)
     
-    Aqui aparecera el nombre de nuestro repositorio y su descripcion, estas las puedes modificar si asi lo quieren, la recomendacion es que la dejen tal cual esta.
+    Aquí aparecerá el nombre de nuestro repositorio y su descripción. Estas las puedes modificar si así lo deseas. La recomendación es que la dejen tal como está.
 
     Al finalizar solo daremos clic en "Publish repository"
 
     ![Boton](Imagenes/img20.png)
 
-    Les tendra que aparecer su pantalla de esta manera
+    Les tendrá que aparecer su pantalla de esta manera:
 
     ![Boton](Imagenes/img21.png)
 
-    Asi nos daremos cuenta que ya esta en la nuve nuestro proyecto
+    Así nos daremos cuenta que ya está en la nube nuestro proyecto.
 
-**Para ver nuestro repositorio en Github lo unico que tendremos que hacer es iniciar secion en github e ir a nuestro perfil**
+**Para ver nuestro repositorio en GitHub lo único que tendremos que hacer es iniciar sesión en GitHub e ir a nuestro perfil**
 
 ![Boton](Imagenes/img22.png)
 
-**Daremos clik en la seccion de "Repositories" y podremos ver el repositorio que hicimos**
+**Daremos clic en la sección de "Repositories" y podremos ver el repositorio que hicimos**
 
 ![Boton](Imagenes/img23.png)
 
@@ -171,7 +171,7 @@ Ahora estás listo para trabajar en tu proyecto de Unity y realizar cambios en l
 ### Realizar commits de los cambios 📚
 Después de hacer modificaciones en tu proyecto de Unity, es importante realizar commits para registrar los cambios en tu repositorio. Sigue estos pasos para hacer commits de los cambios:
 
-1. Vuelve a GitHub Desktop y verras los archivos modificados que deseas incluir en el commit(Si es necesario los puedes modificar).
+1. Vuelve a GitHub Desktop y verás los archivos modificados que deseas incluir en el commit (Si es necesario los puedes modificar).
 2. Proporciona un título descriptivo para el commit y una descripción detallada de los cambios realizados.
 3. Haz clic en "Commit to main" para realizar el commit de los cambios.
 ### Subir los cambios al repositorio remoto
